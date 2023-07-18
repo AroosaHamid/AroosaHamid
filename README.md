@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning SQL and Tableau
 - 💞️ I’m looking to collaborate on case study where I can practice my learning and learn from others.
 - 📫 How to reach me Aroosaahmed70@gmail.com
+- Linkdin
 
 <!---
 AroosaHamid/AroosaHamid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
